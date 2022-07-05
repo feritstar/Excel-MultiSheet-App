@@ -1,0 +1,17 @@
+D:\c#\examples\excelMultipleSheetDeneme\bin\Debug\net6.0\excelMultipleSheetDeneme.exe
+D:\c#\examples\excelMultipleSheetDeneme\bin\Debug\net6.0\excelMultipleSheetDeneme.deps.json
+D:\c#\examples\excelMultipleSheetDeneme\bin\Debug\net6.0\excelMultipleSheetDeneme.runtimeconfig.json
+D:\c#\examples\excelMultipleSheetDeneme\bin\Debug\net6.0\excelMultipleSheetDeneme.dll
+D:\c#\examples\excelMultipleSheetDeneme\bin\Debug\net6.0\excelMultipleSheetDeneme.pdb
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.csproj.AssemblyReference.cache
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.csproj.ResolveComReference.cache
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.AssemblyInfoInputs.cache
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.AssemblyInfo.cs
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.csproj.CoreCompileInputs.cache
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.dll
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\refint\excelMultipleSheetDeneme.dll
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.pdb
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\excelMultipleSheetDeneme.genruntimeconfig.cache
+D:\c#\examples\excelMultipleSheetDeneme\obj\Debug\net6.0\ref\excelMultipleSheetDeneme.dll
